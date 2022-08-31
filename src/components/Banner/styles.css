@@ -1,0 +1,15 @@
+.bannerContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.topBackground {
+  /* flex: 1; */
+  display: flex;
+  background-color: antiquewhite;
+  height: 10vh;
+  width: 100%;
+}
+body {
+  margin: 0px;
+}
